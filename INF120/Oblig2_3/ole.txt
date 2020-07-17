@@ -1,0 +1,11 @@
+finn_alle_unike_ord_i_liste_av_strenger(liste_av_strenger)
+	Kan forenkles ved å bruke tidligere oppgave
+
+finn_unike_ord_i_bok(bokfil)
+	ingen kommentar
+
+legg_til_bok_i_indeks(indeks, bokfil)
+	Hva om det ikke eksisterer?
+
+indekser_bøker(mappe)
+	Ser ingenting galt.
