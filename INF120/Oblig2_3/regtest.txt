@@ -1,0 +1,27 @@
+BEGIN:VEVENT
+DTSTAMP:20200117T230500Z
+UID:event-calendar-event-94167
+DTSTART:20200218T070000Z
+DTEND:20200218T090000Z
+CLASS:PUBLIC
+DESCRIPTION:[TF1-205] (http://use.mazemap.com/?campusid=241&sharepoitype=id
+ entifier&sharepoi=TF%20fl%C3%B8y1-TF1-205)\n\nBookingen kommer fra [TimeEd
+ it.] (https://cloud.timeedit.net/nmbu/web/student/) Res.ID: 76067\nNoen av
+  endringer utført i Canvas blir ikke lagret.\nTa kontakt med timeplanlegg
+ er når noe skal endres!
+LOCATION:TF TF1-205
+SEQUENCE:0
+SUMMARY:Programmering og databehandling\,Mekanikk\,Fysikk og natur\,Kalkulu
+ s 2 - Kollokvie [MATH112-1 20V Kalkulus 2]
+URL:https://nmbu.instructure.com/calendar?include_contexts=course_5160&mont
+ h=02&year=2020#calendar_event_94167
+X-ALT-DESC;FMTTYPE=text/html:<a href="http://use.mazemap.com/?campusid=241&
+ amp\;sharepoitype=identifier&amp\;sharepoi=TF%20fl%C3%B8y1-TF1-205">TF1-20
+ 5</a><br><br><span style="font-size: 10pt\;"><em>Bookingen kommer fra <a h
+ ref="https://cloud.timeedit.net/nmbu/web/student/">TimeEdit.</a> Res.ID: 7
+ 6067</em></span><br><span style="font-size: 10pt\;"><em>Noen av endringer 
+ utført i Canvas blir ikke lagret.</em></span><br><span style="font-size: 
+ 10pt\;"><em>Ta kontakt med timeplanlegger når noe skal endres!</em></span
+ ><script src="https://instructure-uploads-eu.s3-eu-west-1.amazonaws.com/ac
+ count_104530000000000001/attachments/31997/hp5.js"></script>
+END:VEVENT
